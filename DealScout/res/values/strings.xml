@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DealScoutActivity!</string>
+    <string name="app_name">DealScout</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="menu_screen">Menu Screen</string>
+
+</resources>
