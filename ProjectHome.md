@@ -1,0 +1,1 @@
+Scouts for the local deals in your locality
